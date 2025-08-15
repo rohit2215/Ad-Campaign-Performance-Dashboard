@@ -1,0 +1,4 @@
+date,campaign_id,campaign_name,campaign_type,keyword,device,location,impressions,clicks,conversions,cost,revenue,ctr,cpc,cpa,roas,conversion_rate,day_of_week,month,week,is_weekend,ctr_category,roas_category,cost_per_impression,revenue_per_click
+2024-01-01,CAMP_001,Summer Sale 2024,Search,summer sale,Mobile,New York,1200,24,1,60.0,50.0,2.0,2.5,60.0,0.83,4.17,Monday,1,1,False,Medium,Poor,0.05,2.08
+2024-01-01,CAMP_002,Brand Awareness,Display,display_ad,Desktop,Los Angeles,800,4,0,3.2,0.0,0.5,0.8,0.0,0.0,0.0,Monday,1,1,False,Low,Poor,0.004,0.0
+2024-01-01,CAMP_003,Product Launch,Search,product category,Mobile,Chicago,1500,30,2,75.0,100.0,2.0,2.5,37.5,1.33,6.67,Monday,1,1,False,Medium,Break-even,0.05,3.33 
